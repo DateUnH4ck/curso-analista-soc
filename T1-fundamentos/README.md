@@ -4,7 +4,7 @@
 
 | Ep. | Módulo | Título | Estado |
 |---|---|---|---|
-| E00 | — | Por qué dejé el red team por el blue team | 🎬 pendiente |
+| E00 | — | Por qué dejé el red team por el blue team | ✅ publicado |
 | E01 | M0 · Intro y lab | Qué es un SOC y qué hace un analista N1 y N2 | 🎬 pendiente |
 | E02 | M0 · Intro y lab | Monta tu SOC en casa con un comando (soc-lab) | 🎬 pendiente |
 | E03 | M0 · Intro y lab | Tour por Wazuh: alertas, agentes y Threat Hunting | 🎬 pendiente |
