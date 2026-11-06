@@ -4,7 +4,7 @@
 
 | Ep. | Módulo | Título | Estado |
 |---|---|---|---|
-| E00 | — | Por qué dejé el red team por el blue team | ✅ publicado |
+| E00 | — | Así vas a aprender a ser analista SOC | ✅ publicado |
 | E01 | M0 · Intro y lab | Qué es un SOC y qué hace un analista N1 y N2 | 🔜 próximamente |
 | E02 | M0 · Intro y lab | Monta tu SOC en casa con un comando (soc-lab) | 🔜 próximamente |
 | E03 | M0 · Intro y lab | Tour por Wazuh: alertas, agentes y Threat Hunting | 🔜 próximamente |
