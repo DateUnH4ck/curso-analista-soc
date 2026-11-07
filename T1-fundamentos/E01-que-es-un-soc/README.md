@@ -5,19 +5,18 @@
 🎯 **Objetivo:** entender qué es un SOC, cómo llega una alerta hasta un analista y qué hace cada nivel (N1, N2 y N3) con ella.
 
 ## Requisitos previos
-- Ninguno. Si quieres saber cómo está organizado el curso, mira antes el E00.
+- Ninguno. Si quieres saber cómo está organizado el curso, mira antes el [E00](../E00-asi-vas-a-aprender/).
 
 ## Capítulos del vídeo
 
 | Minuto | Tema |
 |---|---|
-| 0:00 | Gancho: un ataque a las 3 de la mañana |
-| 1:38 | Presentación del curso |
-| 2:21 | Qué es un SOC |
-| 6:53 | Niveles N1, N2 y N3 |
-| 9:54 | El caso: la misma alerta vista por un N1 y un N2 |
-| 13:37 | Qué piden las ofertas en España |
-| 15:02 | Reto y próximo episodio |
+| 0:00 | Un ataque a las 3 de la mañana |
+| 1:10 | Breve presentación |
+| 1:46 | ¿Qué es un SOC y qué protege? |
+| 4:15 | El ciclo de vida de una alerta |
+| 8:31 | El caso: la misma alerta vista por un N1 y un N2 |
+| 11:38 | Ofertas de trabajo en España |
 
 ## Conceptos clave
 
