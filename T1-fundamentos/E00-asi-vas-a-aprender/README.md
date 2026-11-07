@@ -69,7 +69,7 @@ del curso genera su alerta. Lo montamos paso a paso en el E02.
 
 ## Cómo seguir el curso
 
-- Tres vídeos al mes.
+- Tres vídeos al mes (como mínimo).
 - Cada episodio termina con un reto pequeño.
 - Todo el material está en este repositorio, enlazado en la descripción de cada vídeo.
 - No hace falta saber nada para empezar.
