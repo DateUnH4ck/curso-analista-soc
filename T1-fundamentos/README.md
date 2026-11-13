@@ -6,7 +6,7 @@
 |---|---|---|---|
 | E00 | — | [Así vas a aprender a ser analista SOC](E00-asi-vas-a-aprender/) | ✅ publicado |
 | E01 | M0 · Intro y lab | [Qué es un SOC y qué hace un analista N1 y N2](E01-que-es-un-soc/) | ✅ publicado |
-| E02 | M0 · Intro y lab | Monta tu SOC en casa con un comando (soc-lab) | 🔜 próximamente |
+| E02 | M0 · Intro y lab | [Monta tu SOC en casa con un comando (soc-lab)](E02-monta-tu-soc/) | ✅ publicado |
 | E03 | M0 · Intro y lab | Tour por Wazuh: alertas, agentes y Threat Hunting | 🔜 próximamente |
 | E04 | M0 · Intro y lab | Tu primer ataque y tu primera alerta | 🔜 próximamente |
 | E05 | M1 · Redes | TCP/IP para analistas: lo justo para leer logs | 🔜 próximamente |
