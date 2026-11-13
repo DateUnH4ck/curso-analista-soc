@@ -1,7 +1,7 @@
 # E01 · Qué es un SOC y qué hace un analista N1 y N2
 
-📺 **Vídeo:** [Qué hace REALMENTE un analista SOC (N1 vs N2) · Curso SOC #1](https://www.youtube.com/@DateUnH4ck)
-🧪 **Laboratorio:** todavía no hace falta; montamos [soc-lab](https://github.com/DateUnH4ck/soc-lab) en el E02
+📺 **Vídeo:** [Qué hace REALMENTE un analista SOC (N1 vs N2) · Curso SOC #1](https://www.youtube.com/watch?v=_bkzYSqfLxc)
+🧪 **Laboratorio:** todavía no hace falta; montamos [soc-lab](https://github.com/DateUnH4ck/soc-lab) en el [E02](../E02-monta-tu-soc/)
 🎯 **Objetivo:** entender qué es un SOC, cómo llega una alerta hasta un analista y qué hace cada nivel (N1, N2 y N3) con ella.
 
 ## Requisitos previos
@@ -11,12 +11,12 @@
 
 | Minuto | Tema |
 |---|---|
-| 0:00 | Un ataque a las 3 de la mañana |
-| 1:10 | Breve presentación |
-| 1:46 | ¿Qué es un SOC y qué protege? |
-| 4:15 | El ciclo de vida de una alerta |
-| 8:31 | El caso: la misma alerta vista por un N1 y un N2 |
-| 11:38 | Ofertas de trabajo en España |
+| [0:00](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=0s) | Un ataque a las 3 de la mañana |
+| [1:10](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=70s) | Breve presentación |
+| [1:46](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=106s) | ¿Qué es un SOC y qué protege? |
+| [4:15](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=255s) | El ciclo de vida de una alerta |
+| [8:31](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=511s) | El caso: la misma alerta vista por un N1 y un N2 |
+| [11:38](https://www.youtube.com/watch?v=_bkzYSqfLxc&t=698s) | Ofertas de trabajo en España |
 
 ## Conceptos clave
 
@@ -107,9 +107,8 @@ Este mismo ataque lo lanzamos y lo cazamos en Wazuh en el E04.
 
 ## Comandos y consultas del vídeo
 
-Este episodio es teórico: no hay comandos. El laboratorio se monta en el E02.
-Si quieres adelantarte, las instrucciones están en
-[soc-lab](https://github.com/DateUnH4ck/soc-lab).
+Este episodio es teórico: no hay comandos. El laboratorio se monta en el
+[E02](../E02-monta-tu-soc/), paso a paso.
 
 ## Cómo lo verías en un SOC real
 

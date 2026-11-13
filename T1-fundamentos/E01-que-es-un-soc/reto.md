@@ -16,7 +16,7 @@ Puedes usar esta tabla:
 | 2 | | | |
 | 3 | | | |
 
-Déjalo en los comentarios del vídeo. Con lo que vayáis poniendo, en unos meses
+Déjalo en los [comentarios del vídeo](https://www.youtube.com/watch?v=_bkzYSqfLxc). Con lo que vayáis poniendo, en unos meses
 haremos un episodio con lo que de verdad pide el mercado en español.
 
 ¿Tienes dudas para clasificar una oferta? Mira la [solución](solucion.md).
