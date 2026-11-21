@@ -8,7 +8,7 @@
 | E01 | M0 · Intro y lab | [Qué es un SOC y qué hace un analista N1 y N2](E01-que-es-un-soc/) | ✅ publicado |
 | E02 | M0 · Intro y lab | [Monta tu SOC en casa con un comando (soc-lab)](E02-monta-tu-soc/) | ✅ publicado |
 | E03 | M0 · Intro y lab | [Tour por Wazuh: alertas, agentes y Threat Hunting](E03-tour-por-wazuh/) | ✅ publicado |
-| E04 | M0 · Intro y lab | Tu primer ataque y tu primera alerta | 🔜 próximamente |
+| E04 | M0 · Intro y lab | [Tu primer ataque y tu primera alerta](E04-tu-primer-ataque/) | ✅ publicado |
 | E05 | M1 · Redes | TCP/IP para analistas: lo justo para leer logs | 🔜 próximamente |
 | E06 | M1 · Redes | DNS: la mina de oro del SOC | 🔜 próximamente |
 | E07 | M1 · Redes | HTTP, TLS y proxies vistos desde los logs | 🔜 próximamente |
